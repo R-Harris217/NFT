@@ -13,7 +13,7 @@ const metadata = {
           value: "Sad",
         },
       ],
-      description: "A sad circle.",
+      description: "Sad circle.",
       image: "https://i.imgur.com/Qkw9N0A.jpeg",
       name: "Sad Circle",
     },
